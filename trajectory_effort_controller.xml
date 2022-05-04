@@ -1,0 +1,7 @@
+<library path="trajectory_effort_controller">
+    <class name="trajectory_effort_controller/TrajectoryEffortController" type="trajectory_effort_controller::TrajectoryEffortController" base_class_type="controller_interface::ControllerInterface">
+    <description>
+        The joint trajectory controller executes joint-space trajectories on a set of joints
+    </description>
+    </class>
+</library>
